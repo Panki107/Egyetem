@@ -1,0 +1,3 @@
+Peti:lovaglás,görkorcsolya,foci
+Jancsi:foci,kézilabda,görkorcsolya
+Marci:foci,lovaglás
