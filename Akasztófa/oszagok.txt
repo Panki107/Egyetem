@@ -1,5 +1,0 @@
-Magyarország;Debrecen;200974;HU
-Románia;Kolozsvár;324576;RO
-Magyarország;Budapest;1706851;HU
-Ausztria;Bécs;1911191;AU
-Románia;Csíkszereda;37176;RO
